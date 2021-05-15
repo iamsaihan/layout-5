@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+.header{
+    background-color: brown;
+    color: white;
+    text-align: center;
+}
+.content{
+    background-color: yellow;
+    overflow: hidden;
+}
+.nav{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    height: 600px;
+    width: 20%;
+    float: left;
+}
+.artical{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    height: 600px;
+    width: 65%;
+    float: left;
+}
+.sidebar{
+    background-color: green;
+    color: white;
+    text-align: center;
+    height: 400px;
+    width: 15%;
+    float: left;    
+}
+.footer{
+    background-color: skyblue ;
+    height: 70px;
+    text-align: center;
+    color: white;
+}
